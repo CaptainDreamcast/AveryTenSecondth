@@ -1,0 +1,245 @@
+[Header]
+Sprites = story/INTRO.sff
+
+[STORYSTART]
+
+
+[Image 1]
+Group = 1
+Item = 19
+
+[Text 1]
+Speaker = "Avery"
+Text = "MY NAME IS AVERY TEN 2TH! AND I SWEAR ON MY HONOR AS A MAN THAT I CAN GET ANYTHING DONE IN TEN SECONDS!"
+
+
+[Text 1]
+Speaker = "Random guy"
+Text = "That's cool, but i didn't ask, why are you telling me this?"
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = "Avery"
+Text = "BE IT PIZZA DELIVERY, WATCHING A 10 HOUR YOUTUBE VIDEO OR EVEN MAKING A LUDUM DARE GAME, I WILL GET IT DONE IN TEN SECONDS!"
+
+[Image 1]
+Group = 1
+Item = 19
+
+[Text 1]
+Speaker = "Random guy"
+Text = "You're hurting me with your grip!"
+
+[Image 1]
+Group = 1
+Item = 19
+
+[Text 1]
+Speaker = "Avery"
+Text = "THAT'S WHY THEY CALL ME AVERY TEN SECONDS! AVERY FOR SHORT!"
+
+[Text 1]
+Speaker = "Random guy"
+Text = "Please don't hurt me! I have a family, I have an infant daughter! I have money if that's what you want!"
+
+[Image 1]
+Group = 1
+Item = 3
+
+[Text 1]
+Speaker = "Avery"
+Text = "Off you go to your daughter in ten seconds with this improvised slingshot! Another satisfied customer."
+
+[Image 1]
+Group = 1
+Item = 4
+
+[Text 1]
+Speaker = "Avery"
+Text = "Sometimes I wish there was a grander scheme for my talents to florish. Living my grand destiny."
+
+[Image 1]
+Group = 1
+Item = 6
+
+
+[Text 1]
+Speaker = "Avery"
+Text = "Like this dude that just appeared out of thin air."
+
+
+[Image 1]
+Group = 1
+Item = 21
+
+[Text 1]
+Speaker = "Mysterious exhibitionist"
+Text = "Are you Avery Ten 2th II?"
+
+[Image 1]
+Group = 1
+Item = 8
+
+[Text 1]
+Speaker = "Avery"
+Text = "That I am, the Avery Ten 2th line goes back all the way to 1987."
+
+[Image 1]
+Group = 1
+Item = 23
+
+[Text 1]
+Speaker = "III"
+Text = "I am your son, Avery Ten 2th III. Exploits of your great ten second accomplishments have reached us in the future."
+
+[Text 1]
+Speaker = "III"
+Text = "We need your help."
+
+
+[Image 1]
+Group = 1
+Item = 22
+
+[Text 1]
+Speaker = "Avery"
+Text = "Couldn't you just use your father from the future then?"
+
+[Image 1]
+Group = 1
+Item = 9
+
+[Text 1]
+Speaker = "III"
+Text = "I can't. My father died young when a time traveler asked him for help to save the future."
+
+[Image 1]
+Group = 1
+Item = 10
+
+[Text 1]
+Speaker = "Avery"
+Text = "Hmmm."
+
+[Image 1]
+Group = 1
+Item = 11
+
+[Text 1]
+Speaker = "III"
+Text = "You MUST help us! Neo-Cleveland has been taken over by an evil AI!"
+
+[Text 1]
+Speaker = "III"
+Text = "It changes the laws of physics every 10 seconds!"
+
+
+[Text 1]
+Speaker = "Avery"
+Text = "... OF COURSE! And only I with my awfully specific talent of 10 second bursts can challenge him successfully."
+
+[Image 1]
+Group = 1
+Item = 7
+
+[Text 1]
+Speaker = "III"
+Text = "Then let us leave at once! To NEO-CLEVELAND IN THE FUTURE YEAR OF 2010!!"
+
+[Text 1]
+Speaker = "Avery"
+Text = "JUST ONE YEAR IN THE FUTURE?! HOW DOES THAT EVEN WO-"
+
+[Image 1]
+Group = 1
+Item = 12
+
+
+[Text 1]
+Speaker = "Avery"
+Text = "My god... what have they done to this place?! It's completely destroyed... YOU... YOU MADMEN!!"
+
+[Text 1]
+Speaker = "III"
+Text = "This is just regular Cleveland, we haven't traveled in time yet."
+
+[Image 1]
+Group = 1
+Item = 17
+
+[Text 1]
+Speaker = "Avery"
+Text = "Ah, ok."
+
+[Image 1]
+Group = 1
+Item = 13
+
+[Text 1]
+Speaker = "III"
+Text = "Now we are in 2023 Neo-Cleveland. You can get I <3 Neo-Cleveland shirts at the gift shop over there."
+
+[Image 1]
+Group = 1
+Item = 18
+
+[Text 1]
+Speaker = "Avery"
+Text = "Ah, ok."
+
+[Image 1]
+Group = 1
+Item = 7
+
+[Text 1]
+Speaker = "III"
+Text = "Now we must stop G.O.D., the AI that has taken over Cleveland-"
+
+
+
+[Text 1]
+Speaker = "Avery"
+Text = "Neo-Cleveland."
+
+[Image 1]
+Group = 1
+Item = 15
+
+
+[Text 1]
+Speaker = "III"
+Text = "For this, I have prepared this rocket powered T.A.N.K. with airborne capabilities."
+
+[Text 1]
+Speaker = "Avery"
+Text = "Airborne?! You just added some balloons to it!"
+
+[Text 1]
+Speaker = "III"
+Text = "Airborne balloons. Your  mission is to get close enough to G.O.D. and-"
+
+[Text 1]
+Speaker = "III"
+Text = "Fire the G.O.D.S.L.A.Y.E.R. W.E.A.P.O.N. in the F.R.O.N.T. of the T.A.N.K."
+
+
+[Text 1]
+Speaker = "Avery"
+Text = "I feel like you're going a bit overboard with the acronyms there!"
+
+[Image 1]
+Group = 1
+Item = 16
+
+[Text 1]
+Speaker = "III"
+Text = "G.O.D.speed. May Cleve, the guardian deity of Cleveland be with you."
+
+[Text 1]
+Speaker = "Avery"
+Text = "NEO-Cleveland!"
+
+[Title]

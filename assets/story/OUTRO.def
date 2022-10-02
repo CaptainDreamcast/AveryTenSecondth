@@ -1,0 +1,234 @@
+[Header]
+Sprites = story/INTRO.sff
+
+[STORYSTART]
+
+
+[Image 1]
+Group = 1
+Item = 2
+
+[Text 1]
+Speaker = "Moon"
+Text = "crack"
+
+[Image 1]
+Group = 1
+Item = 3
+
+
+[Text 1]
+Speaker = "Avery"
+Text = "... Did the moon just crack?"
+
+[Image 1]
+Group = 1
+Item = 15
+
+[Text 1]
+Speaker = "III"
+Text = "Phew."
+
+[Text 1]
+Speaker = "Avery"
+Text = "Where did you come from?"
+
+[Image 1]
+Group = 1
+Item = 4
+
+[Text 1]
+Speaker = "III"
+Text = "The me from this time died from the shot blast, so I time traveled back from the future to take the place of my past self."
+
+
+[Text 1]
+Speaker = "Avery"
+Text = "But does that... Is that even... Shouldn't that... huh?"
+
+[Image 1]
+Group = 1
+Item = 5
+
+[Text 1]
+Speaker = "III"
+Text = "Ah, it's the Cleves, the native residents of Cleveland."
+
+[Text 1]
+Speaker = "III"
+Text = "They must want to praise us for our efforts and reward us with offerings of goats and virgin maidens."
+
+
+[Image 1]
+Group = 1
+Item = 6
+
+[Text 1]
+Speaker = "Elder Cleve"
+Text = "Curse you, time travelers! Our benevolent king is dead!"
+
+[Text 1]
+Speaker = "Avery"
+Text = "B- But he literally changed the laws of physics every 10 seconds!"
+
+[Text 1]
+Speaker = "Elder Cleve"
+Text = "The first consistent politician in earth's history!"
+
+[Image 1]
+Group = 1
+Item = 7
+
+[Text 1]
+Speaker = "III"
+Text = "Plus he built roads."
+
+[Text 1]
+Speaker = "Elder Cleve"
+Text = "Yea, he built a lot of roads."
+
+[Text 1]
+Speaker = "Avery"
+Text = "WHY ARE YOU AGREEING WITH HIM, III?!"
+
+[Image 1]
+Group = 1
+Item = 8
+
+[Text 1]
+Speaker = "Elder Cleve"
+Text = "We haven't forgiven the Cleveland jokes from the intro cutscene either. Cleveland is a beautiful city in the heart of America."
+
+[Image 1]
+Group = 1
+Item = 7
+
+[Text 1]
+Speaker = "III"
+Text = "Yeah, what was that all about Avery?"
+
+[Text 1]
+Speaker = "Avery"
+Text = "AGAIN, AREN'T YOU PLAYING FOR THE WRONG TEAM HERE?!"
+
+
+[Image 1]
+Group = 1
+Item = 9
+
+[Text 1]
+Speaker = "III"
+Text = "As atonement, I will not send you back home to your time."
+
+[Text 1]
+Speaker = "Avery"
+Text = "ATONEMENT?! YOU MAKE IT SOUND LIKE I CRACKED THE MOON OR SOME- ah."
+
+[Text 1]
+Speaker = "III"
+Text = "You will assist me in my true goal:"
+
+
+[Image 1]
+Group = 1
+Item = 10
+
+[Text 1]
+Speaker = "III"
+Text = "FIND THE TIME TRAVELER WHO KILLED MY FATHER!"
+
+[Text 1]
+Speaker = "Avery"
+Text = "Hmmm."
+
+[Text 1]
+Speaker = "III"
+Text = "HE WAS THE SAME MAN WHO TAMPERED WITH THE AI AND TURNED IT INTO A GOD BECAUSE HE THOUGHT IT WAS FUNNY!"
+
+[Text 1]
+Speaker = "Avery"
+Text = "Is this basically an admission of guilt?"
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Narrator"
+Text = "And so the two Averies set out on their quest to find the man who killed Avery Ten 2th II."
+
+[Text 1]
+Speaker = "Narrator"
+Text = "It was a perilous journey, full of drama, despair, and even more Cleveland attractions. Eventually the moon fully cracked too."
+
+[Text 1]
+Speaker = "Narrator"
+Text = "The moral of the story is to live each moment to its fullest."
+
+
+[Image 1]
+Group = 1
+Item = 11
+
+[Text 1]
+Speaker = "Avery"
+Text = "HOW WAS THAT THE MORAL OF THE GAME?!"
+
+
+[Image 1]
+Group = 1
+Item = 0
+
+[Text 1]
+Speaker = "Narrator"
+Text = "Live could change..."
+
+[Text 1]
+Speaker = "Narrator"
+Text = "Wait for it..."
+
+[Text 1]
+Speaker = "Narrator"
+Text = "Every 10 seconds."
+
+
+[Image 1]
+Group = 1
+Item = 11
+
+[Text 1]
+Speaker = "Avery"
+Text = "WHAT THE HECK?!"
+
+
+[Image 1]
+Group = 1
+Item = 12
+
+[Text 1]
+Speaker = "III"
+Text = "Traveled from the future beyond the future to thank you for playing. This has saved the timeline from sure destruction."
+
+[Text 1]
+Speaker = "Avery"
+Text = "Thanks a lot!"
+
+
+[Image 1]
+Group = 1
+Item = 14
+
+[Text 1]
+Speaker = "Cleve"
+Text = "The end."
+
+[Image 1]
+Group = 1
+Item = 13
+
+[Text 1]
+Speaker = " "
+Text = " "
+
+[Title]

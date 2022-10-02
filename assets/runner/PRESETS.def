@@ -1,0 +1,1407 @@
+; 0
+[PresetStart]
+
+[Placement]
+type = platform
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 1
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 2
+y = 2
+mirrorx = 0
+mirrory = 0
+
+
+
+
+
+
+
+; 1
+[PresetStart]
+
+[Placement]
+type = spike
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 2
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = spike
+x = 3
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = spike
+x = 4
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = spike
+x = 6
+y = 0
+mirrorx = 0
+mirrory = 0
+
+
+
+
+
+
+
+
+; 2
+[PresetStart]
+
+[Placement]
+type = platform
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 2
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 2
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 4
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 4
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 4
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 3
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 8
+y = 4
+mirrorx = 0
+mirrory = 0
+
+
+
+
+; 3
+[PresetStart]
+
+[Placement]
+type = bounce
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 2
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 2
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 2
+y = 4
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = platform
+x = 2
+y = 5
+mirrorx = 0
+mirrory = 0
+
+
+
+
+
+
+
+
+; 4
+[PresetStart]
+
+[Placement]
+type = platform
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 0
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 0
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = platform
+x = 0
+y = 4
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 2
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 2
+y = 4
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = platform
+x = 4
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 4
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 4
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = platform
+x = 4
+y = 4
+mirrorx = 0
+mirrory = 0
+
+
+
+
+
+; 5
+[PresetStart]
+
+[Placement]
+type = bounce
+x = 0
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = bounce
+x = 2
+y = 3
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = bounce
+x = 4
+y = 5
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 3
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 4
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 5
+mirrorx = 0
+mirrory = 0
+
+; 6
+[PresetStart]
+
+[Placement]
+type = bounce
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 2
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = bounce
+x = 4
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 7
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 8
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 9
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 10
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 11
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 12
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 13
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 7
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 9
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 11
+y = 0
+mirrorx = 0
+mirrory = 0
+
+
+
+
+
+
+; 7
+[PresetStart]
+
+[Placement]
+type = accelerate
+x = 0
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 1
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 2
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 3
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 4
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 5
+y = 0
+mirrorx = 0
+mirrory = 0
+
+
+[Placement]
+type = spike
+x = 1
+y = 4
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = spike
+x = 2
+y = 4
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = spike
+x = 3
+y = 4
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = spike
+x = 4
+y = 4
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = spike
+x = 5
+y = 4
+mirrorx = 0
+mirrory = 1
+
+
+
+
+
+
+
+; 8
+[PresetStart]
+
+[Placement]
+type = bounce
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 2
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 3
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 4
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 5
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 7
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 2
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 3
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 4
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 5
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 6
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 7
+y = 0
+mirrorx = 0
+mirrory = 0
+
+
+
+
+
+
+
+
+
+; 9
+[PresetStart]
+
+[Placement]
+type = platform
+x = 0
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = bounce
+x = 2
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 4
+y = 3
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 4
+y = 0
+mirrorx = 0
+mirrory = 0
+
+
+
+
+
+
+; 10 a
+[PresetStart]
+
+[Placement]
+type = spike
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+
+; 10 b
+[PresetStart]
+
+[Placement]
+type = bounce
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+; 10 c
+[PresetStart]
+
+[Placement]
+type = accelerate
+x = 0
+y = 1
+mirrorx = 0
+mirrory = 0
+
+; 10 d
+[PresetStart]
+
+[Placement]
+type = platform
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+
+
+; 11
+[PresetStart]
+
+[Placement]
+type = bounce
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = bounce
+x = 2
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = bounce
+x = 4
+y = 4
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 3
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 4
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 5
+mirrorx = 0
+mirrory = 0
+
+
+
+
+
+; 12
+[PresetStart]
+
+[Placement]
+type = platform
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 0
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 0
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 0
+y = 3
+mirrorx = 0
+mirrory = 0
+
+
+; 13
+[PresetStart]
+
+[Placement]
+type = spike
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 0
+y = 4
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = accelerate
+x = 0
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 3
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 3
+y = 4
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = accelerate
+x = 3
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = bounce
+x = 5
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 7
+y = 3
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 7
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 7
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 7
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 8
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 9
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 9
+y = 3
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 9
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 9
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 9
+y = 0
+mirrorx = 0
+mirrory = 0
+
+
+; 14
+[PresetStart]
+
+[Placement]
+type = accelerate
+x = 0
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 1
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 1
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = platform
+x = 2
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 3
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 4
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 5
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 7
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 8
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 9
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 10
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 11
+y = 0
+mirrorx = 0
+mirrory = 0
+
+
+[Placement]
+type = platform
+x = 2
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = platform
+x = 3
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = platform
+x = 4
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = platform
+x = 5
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = platform
+x = 6
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = platform
+x = 7
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = platform
+x = 8
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = platform
+x = 9
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = platform
+x = 10
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = spike
+x = 11
+y = 3
+mirrorx = 0
+mirrory = 1
+
+[Placement]
+type = accelerate
+x = 10
+y = 1
+mirrorx = 0
+mirrory = 0
+
+
+
+; 15
+[PresetStart]
+
+[Placement]
+type = spike
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 1
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 1
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 2
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 2
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 2
+y = 2
+mirrorx = 0
+mirrory = 0
+
+
+[Placement]
+type = platform
+x = 3
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 3
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 3
+y = 2
+mirrorx = 0
+mirrory = 0
+
+
+[Placement]
+type = platform
+x = 4
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 4
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 4
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 4
+y = 3
+mirrorx = 0
+mirrory = 0
+
+
+[Placement]
+type = platform
+x = 5
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 5
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 5
+y = 2
+mirrorx = 0
+mirrory = 0
+
+
+[Placement]
+type = platform
+x = 6
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 6
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 6
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 7
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 7
+y = 1
+mirrorx = 0
+mirrory = 0
+
+
+[Placement]
+type = platform
+x = 8
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = spike
+x = 8
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 9
+y = 0
+mirrorx = 0
+mirrory = 0
+
+
+
+
+
+
+; 16
+[PresetStart]
+
+[Placement]
+type = platform
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0
+
+
+[Placement]
+type = platform
+x = 1
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 2
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 3
+y = 2
+mirrorx = 0
+mirrory = 0
+
+
+[Placement]
+type = platform
+x = 4
+y = 2
+mirrorx = 0
+mirrory = 0
+
+
+[Placement]
+type = platform
+x = 5
+y = 2
+mirrorx = 0
+mirrory = 0
+
+
+[Placement]
+type = platform
+x = 6
+y = 2
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 7
+y = 1
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 8
+y = 0
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = bounce
+x = 8
+y = 3
+mirrorx = 0
+mirrory = 0
+
+
+[Placement]
+type = platform
+x = 10
+y = 3
+mirrorx = 0
+mirrory = 0
+
+[Placement]
+type = platform
+x = 11
+y = 3
+mirrorx = 0
+mirrory = 0
+
+
+
+
+
+
+
+; 16
+[PresetStart]
+
+[Placement]
+type = platform
+x = 0
+y = 0
+mirrorx = 0
+mirrory = 0

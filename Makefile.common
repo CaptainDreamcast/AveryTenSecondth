@@ -1,0 +1,2 @@
+OBJS = main.o \
+code/platformmanager.o code/rulehandler.o code/runnerbg.o code/runnerplayer.o code/runnerscreen.o code/sfxhandler.o code/storyscreen.o code/titlescreen.o

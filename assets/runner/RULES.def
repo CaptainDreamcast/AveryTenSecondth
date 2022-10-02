@@ -1,0 +1,47 @@
+[Group]
+s1 = "G.O.D.: So you dare challenge my reign over Cleveland, mortal? With your..."
+s2 = "G.O.D.: I- Is that a tank with balloons attached to it? Cannot compute."
+
+[Group]
+s1 = "G.O.D.: Rule change: Size. You are now small, you will have an easier time building muscle, you might also harbor illwill against so-called lanklets."
+s2 = "G.O.D.: How? How do you persist despite your size?"
+
+[Group]
+s1 = "G.O.D.: Rule change: Speed. You are now twice as fast. N- No I did not just add a second rocket, it's my superpower doing this!"
+s2 = "G.O.D.: ... Ok I lied, I added a second rocket."
+
+[Group]
+s1 = "G.O.D.: Rule change: Gravity. This is now 0.5G. Live through this and you might become the first Clevelandian astronaut on the CSS."
+s2 = "G.O.D.: Could have also been Rule change: Weight, if you think about it. Like if you really think about it. I'm a thinker."
+
+[Group]
+s1 = "G.O.D.: Rule change: Damage. All damage heals you instead now!"
+s2 = "G.O.D.: ... Gotta pick these more carefully I think."
+
+[Group]
+s1 = "G.O.D.: Rule change: Up. Up and down are now reversed and you are on your one-way trip to the moon!"
+s2 = "G.O.D.: ... Well this worked a little too well I would say."
+
+[Group]
+s1 = "G.O.D.: Rule change: Direction. You now feel strong affection for the boyband One Direction!"
+s2 = "G.O.D.: Hmm, no something went wrong here, let me hold up this image of Zayn... Nothing? Really? Be honest!"
+
+[Group]
+s1 = "G.O.D.: Rule change: Sound. Fufufu, without those carefully crafted sound effects and BGM."
+s2 = "G.O.D.: No, I'm not unusually emotionally invested in them. It's your imagination."
+
+[Group]
+s1 = "G.O.D.: Rule change: Mystery. IT'S A COMPLETE MYSTERY, HAHAHAHAHA! You think I would just tell you? ... Do you want me to tell you?"
+s2 = "G.O.D.: ... OK, since we're basically good friends now, it just changes the random seed. Huh? What's a random seed? I dunno."
+
+[Group]
+s1 = "G.O.D.: Rule change: Vision. You now have the mind stone. And you can't see."
+s2 = "G.O.D.: Does this actually cut off the text? Hello? Helloooooooo?"
+
+[Group]
+s1 = "G.O.D.: Rule change: Arm. You must now play one-handed. I cannot enforce this from here, but I expect the player to be honorable."
+s2 = "G.O.D.: ... You wouldn't cheat on a five minute Ludum Dare Entry with 100 starting lives, would you? There are more ways to lose than a game over screen, you know!"
+
+[Group]
+s1 = "G.O.D.: After all these rule changes, I have come to realize: Maybe I don't have to be an absolute ruler, maybe all I wanted was a fr-"
+s2 = "Avery: G.O.D.S.L.A.Y.E.R. HAS FINISHED CHARGING! FIRE!"

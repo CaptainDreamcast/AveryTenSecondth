@@ -1,0 +1,15 @@
+
+[Begin Action 1]
+1,0, 0,0, 10
+
+[Begin Action 100]
+100,0, 0,0, 10
+
+[Begin Action 101]
+100,2, 0,0, 10
+
+[Begin Action 102]
+100,1, 0,0, 10
+
+[Begin Action 103]
+100,3, 0,0, 10
