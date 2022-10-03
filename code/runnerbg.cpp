@@ -16,13 +16,13 @@ public:
 	Vector2DI spriteSize;
 
 	RunnerBG() {
-		gRunnerBGData.bgEntityId = addBlitzEntity(Position(0, 0, 0));
+		gRunnerBGData.bgEntityId = addBlitzEntity(Position(0, 0, 1));
 		addBlitzMugenAnimationComponent(gRunnerBGData.bgEntityId, getRunnerScreenSprites(), getRunnerScreenAnimations(), 1);
 		addBlitzPhysicsComponent(gRunnerBGData.bgEntityId);
 		addBlitzPhysicsVelocityX(gRunnerBGData.bgEntityId, -3.f);
 		spriteSize = getAnimationFirstElementSpriteSize(getMugenAnimation(getRunnerScreenAnimations(), getBlitzMugenAnimationAnimationNumber(gRunnerBGData.bgEntityId)), getRunnerScreenSprites());
 
-		gRunnerBGData.bgEntityIdSwap = addBlitzEntity(Position(spriteSize.x, 0, 0));
+		gRunnerBGData.bgEntityIdSwap = addBlitzEntity(Position(spriteSize.x, 0, 1));
 		addBlitzMugenAnimationComponent(gRunnerBGData.bgEntityIdSwap, getRunnerScreenSprites(), getRunnerScreenAnimations(), 1);
 		addBlitzPhysicsComponent(gRunnerBGData.bgEntityIdSwap);
 		addBlitzPhysicsVelocityX(gRunnerBGData.bgEntityIdSwap, -3.f);

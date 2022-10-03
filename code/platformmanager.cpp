@@ -117,7 +117,7 @@ public:
 			entry.mirrorY = getMugenDefIntegerOrDefaultAsGroup(currentGroup, "mirrory", 0);
 			auto typeString = getSTLMugenDefStringOrDefaultAsGroup(currentGroup, "type", "platform");
 			entry.type = placementTypeFromString(typeString);
-			entryMap.emplace(std::make_pair(entry.x, entry));
+			entryMap.insert(std::make_pair(entry.x, entry));
 
 			currentGroup = currentGroup->mNext;
 		}
